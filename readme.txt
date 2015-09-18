@@ -1,1 +1,1 @@
-today is first day to learn github
+today is first day to learn hub
